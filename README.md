@@ -3,6 +3,6 @@
 
 It contains properties like  --- 
 <br>
--->Transition
--->Transform
--->Animation
+-->Transition<br>
+-->Transform<br>
+-->Animation<br>
