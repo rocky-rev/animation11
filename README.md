@@ -1,4 +1,8 @@
 # Animation Using CSS
 
 
-It contains properties like  --- transform ,transition 
+It contains properties like  --- 
+<br>
+-->Transition
+-->Transform
+-->Animation
