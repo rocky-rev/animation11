@@ -1,7 +1,7 @@
 # Animation Using CSS
 
 
-It contains properties like  --- 
+To perform animation we require properties like  --- 
 <br>
 -->Transition<br>
 -->Transform<br>
